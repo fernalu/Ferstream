@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FerStream Bolivia - Servicios de Streaming Digital</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <header class="bg-indigo-700 text-white p-6 shadow">
+    <h1 class="text-3xl font-bold">FerStream Bolivia</h1>
+    <p class="text-sm">Servicios digitales de entretenimiento | Streaming por suscripción mensual</p>
+  </header>  <main class="p-6 grid gap-6 md:grid-cols-3">
+    <!-- Producto 1 -->
+    <div class="bg-white p-4 rounded-xl shadow">
+      <h2 class="text-xl font-semibold">Plan Familiar HD</h2>
+      <p class="my-2">Servicio de entretenimiento HD para 4 pantallas durante 1 mes.</p>
+      <p class="text-lg font-bold">$6.00 USD</p>
+      <a href="https://tu-enlace-lemon-o-pasarela.com" target="_blank" class="inline-block mt-2 bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Comprar ahora</a>
+    </div><!-- Producto 2 -->
+<div class="bg-white p-4 rounded-xl shadow">
+  <h2 class="text-xl font-semibold">Plan Básico HD</h2>
+  <p class="my-2">Servicio de streaming para 2 pantallas en calidad HD.</p>
+  <p class="text-lg font-bold">$4.00 USD</p>
+  <a href="https://tu-enlace-lemon-o-pasarela.com" target="_blank" class="inline-block mt-2 bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Comprar ahora</a>
+</div>
+
+<!-- Producto 3 -->
+<div class="bg-white p-4 rounded-xl shadow">
+  <h2 class="text-xl font-semibold">Combo Premium HD</h2>
+  <p class="my-2">Acceso completo a entretenimiento HD y contenido familiar por 30 días.</p>
+  <p class="text-lg font-bold">$9.50 USD</p>
+  <a href="https://tu-enlace-lemon-o-pasarela.com" target="_blank" class="inline-block mt-2 bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Comprar ahora</a>
+</div>
+
+  </main>  <section class="p-6 bg-white shadow mt-6">
+    <h2 class="text-xl font-bold mb-2">¿Cómo funciona?</h2>
+    <p class="mb-2">FerStream ofrece acceso a servicios digitales de streaming bajo suscripción mensual. Una vez realizado el pago, recibirás acceso a tu servicio en menos de 24 horas por correo electrónico o WhatsApp.</p>
+    <h3 class="font-semibold">Métodos de pago aceptados:</h3>
+    <ul class="list-disc list-inside mb-2">
+      <li>Tarjetas de débito y crédito (Visa, Mastercard)</li>
+      <li>Pagos internacionales con Payoneer, Stripe, Wise</li>
+      <li>Criptomonedas (USDT, BTC, ETH)</li>
+    </ul>
+    <p>Para pagos especiales, contáctanos por WhatsApp.</p>
+  </section>  <footer class="bg-gray-800 text-white text-center p-4 mt-6">
+    <p>&copy; 2025 FerStream Bolivia | Servicio digital autorizado | Tipo de cambio estimado: 6.96 Bs/USD</p>
+    <p class="text-sm">Esta página representa una plataforma de servicios digitales. No vendemos marcas registradas, solo suscripciones y acceso gestionado a contenidos digitales.</p>
+  </footer>
+</body>
+</html>
